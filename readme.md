@@ -14,6 +14,15 @@ operated by [WSU LAR](lar.wsu.edu) within the [Urbanova](urbanova.org) project.
   * Google Earth file: [click to download](urbanova-network-links.kml)
 * *Data sets (**TBD**)*
 
+> `urbanova-network-links.kml` contains a Network Link to `urbanova-aqrs.kml`
+> on Github.. idea being that later on network nodes are added as a separate
+> Network Link and by downloading a KML only containing network links, users
+> will have network links for all (AQRS, AQ nodes, traffic nodes, geodata
+> collected by students doing street-level sampling, etc)
+>
+> Hangups:
+> * GE can only export folders, which means users will find an extra subfolder
+>   inside the network links preventing them from directly accessing placemarks
 
 
 ## Datalogger
